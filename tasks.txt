@@ -1,0 +1,17 @@
+Create task tracker.
+Plan next day.
+Run end to end in jupyter NB- Tk2
+Check all pipelines
+Make a quick report
+Then clarify the feature store doubt
+Read about Fluent2 etc
+Then port the model to Fluent2
+Think about imp questions
+Think if you need to add some feature to feature store
+Now use features suggested by Matt
+Read papers which matt suggested
+Iterate over your work multiple times
+Polish your report
+Schedule a meeting with Matt
+Read about decision trees
+Post your achievement over week
